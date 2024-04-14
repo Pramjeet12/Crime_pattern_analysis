@@ -1,13 +1,15 @@
 # Crime_analysis_karnataka_police
 Crime Analytics using Time Series Forecasting
 
-Overview
+Overview:
+
 This project focuses on utilizing time series forecasting techniques to analyze and predict crime rates. The main objective is to develop models that can effectively predict future crime occurrences based on historical data. The project implements various models including ARIMA, XGBoost, and Prophet to compare their performance in crime prediction.
 
 
 
 
-Table of Contents
+Table of Contents 
+
 .Overview
 .Dataset
 .Installation
